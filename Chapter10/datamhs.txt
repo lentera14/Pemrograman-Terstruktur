@@ -1,0 +1,6 @@
+K3518001|Amir|Solo
+K3518002|Budi|Semarang
+K3518003|Cici|Jakarta
+K3518004|Dery|Bandung
+K3518005|Asa|Bogor
+K3518006|Naren|Yogyakarta
